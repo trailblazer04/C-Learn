@@ -167,3 +167,11 @@ xcuserdata/
 **/xcshareddata/WorkspaceSettings.xcsettings
 
 # End of https://www.toptal.com/developers/gitignore/api/xcode
+
+
+# Ignore C executables in all subfolders
+**/hello-world
+**/*.out
+**/*.exe
+**/*.o
+**/*.elf
